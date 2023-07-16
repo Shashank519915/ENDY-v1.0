@@ -11,6 +11,9 @@ This repository contains a C++ program that provides password-based encryption a
 - Brute force attack prevention
 - Password strength validation
 
+## Preview
+![ENDY v1 0](https://github.com/Shashank519915/ENDY-v1.0/assets/120128150/a63d9912-bd7c-4d6e-9817-3b966943dd30)
+
 ## Getting Started
 
 ### Prerequisites
