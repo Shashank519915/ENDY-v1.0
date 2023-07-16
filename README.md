@@ -1,4 +1,4 @@
-# Password Encryption Program
+# ENDY v1.0 - Password Encryption Program
 
 This repository contains a C++ program that provides password-based encryption and decryption using a symmetric encryption algorithm. The program offers features such as random salt generation, customizable difficulty levels, and prevention against brute force attacks. It also includes password strength validation to ensure the use of strong passwords for enhanced security.
 
