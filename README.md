@@ -26,7 +26,7 @@ This repository contains a C++ program that provides password-based encryption a
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/password-encryption-program.git
+git clone https://github.com/Shashank519915/ENDY-v1.0.git
 ```
 
 2. Compile the program using your C++ compiler.
